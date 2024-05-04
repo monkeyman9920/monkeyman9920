@@ -1,6 +1,5 @@
 <p align="center"><img src="https://media1.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=ecf05e47dhnlbfdb7ogktiv4gh3vn76h7vjoilbhbo4kw9uk&rid=giphy.gif&ct=g" width="500"/></p>
 <p align="center">
-<a href="https://twitter.com/MYM_Monkey9920"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="TwitterBadge"></a>
 </p>
 
 
