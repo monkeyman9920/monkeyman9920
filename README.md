@@ -5,8 +5,6 @@
 
 ---
 
-### &nbsp; About me:
-
 ---
 
 ### &nbsp; Languages and Tools:
