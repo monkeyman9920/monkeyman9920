@@ -6,7 +6,6 @@
 ---
 
 ### &nbsp; About me:
-When I was completly clueless of software engineering I would do something that is known as a "skid". Eventually I taught myself how to code and would mainly just do node.js and javascript. The only things I code are just Discord bots.
 
 ---
 
